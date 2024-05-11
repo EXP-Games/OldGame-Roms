@@ -1,0 +1,3 @@
+[submodule "simulator/fcgame"]
+	path = simulator/fcgame
+	url = git@github.com:EXP-Games/fcgame.git
