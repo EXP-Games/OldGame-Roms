@@ -7,7 +7,7 @@
 
 ![](./dash2/world.png)
 
-- 福雷德号
+- [福雷德号](./dash2/map/Flutter.md)
 - 塞尔法飞行船
 - 禁断之地
 - 高岭大陆
