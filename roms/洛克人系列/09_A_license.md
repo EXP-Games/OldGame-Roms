@@ -6,11 +6,6 @@
 
 影片参考：
 
-<iframe src="https://player.bilibili.com/player.html?autoplay=0&bvid=BV1SRruYHERG"
-    width="100%" height="460" 
-    title="DASH2 洛克人2庞大的遗产 - A 级执照 Pass演示" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen="true" >
-</iframe>
+[![DASH2 洛克人2庞大的遗产 - A 级执照 Pass演示](./dash2/license/A/A-video.jpg)](https://www.bilibili.com/video/BV1SRruYHERG)
+
 
