@@ -18,6 +18,8 @@
 
 <!-- 视频来源： https://www.youtube.com/watch?v=iw5ISdO-Hnc -->
 
+![](./dash2/license/A/map.png)
+
 ## 考试地图 1
 
 守关者：
