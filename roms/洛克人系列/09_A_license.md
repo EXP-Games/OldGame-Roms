@@ -16,6 +16,8 @@
 
 [![DASH2 洛克人2庞大的遗产 - A 级执照 Pass演示](./dash2/license/A/A-video.jpg)](https://www.bilibili.com/video/BV1SRruYHERG)
 
+<!-- 视频来源： https://www.youtube.com/watch?v=iw5ISdO-Hnc -->
+
 ## 考试地图 1
 
 守关者：
