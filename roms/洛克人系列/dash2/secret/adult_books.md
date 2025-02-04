@@ -11,7 +11,7 @@
 
 ![](./adultbooks_slices/adultbooks_2.png)
 
-那，100000Z如何！？
+那，100000Z 如何！？
 
 1. 成交！
 2. 300000Z 啦！
