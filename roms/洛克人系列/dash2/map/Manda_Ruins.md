@@ -1,10 +1,6 @@
 # 曼德岛遗迹（Manda Ruins）
 
-![](./Manda_Ruins_01.png)
-
-![](./Manda_Ruins_02.png)
-
-![](./Manda_Ruins_03.png)
+![](./Manda_Ruins.png)
 
 道具位置：
 
