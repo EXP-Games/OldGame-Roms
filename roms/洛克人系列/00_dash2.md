@@ -2,7 +2,7 @@
 
 [![洛克人2 庞大的遗产](./dash2/logo.png)](http://www.rmmh.org/htm/d/d2/system.html)
 
-> [过场 CG 剧情动画（含翻译）](https://www.bilibili.com/video/BV1Vt411Z7To/)
+> [过场 CG 剧情动画（含翻译）](https://www.bilibili.com/video/BV1jzPBeiEjf/)
 
 ------
 
