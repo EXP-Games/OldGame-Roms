@@ -6,7 +6,7 @@
 - [洛克枪组件](./dash2/item_data/rockgun_components.md)
 - [武器改造金额表](./dash2/item_data/weapon_money.md)
 - [好感度表](./dash2/item_data/favorability.md)
-- [汉检](./dash2/item_data/chinese_test.md)
+- [汉检（141 问答案）](./dash2/item_data/chinese_test.md)
 
 ------
 

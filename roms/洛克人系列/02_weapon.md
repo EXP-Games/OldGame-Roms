@@ -7,7 +7,7 @@
 
 ------
 
-![](./dash2/weapon.png)
+![](./dash2/weapon/weapon.png)
 
 灭火水枪
  

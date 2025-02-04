@@ -5,7 +5,7 @@
 - 世界地图共有 8 个区域可点选，鼠标变成手指代表可进入
 - 区域地图内若有横向手指，表示可点选
 
-![](./dash2/world.png)
+![](./dash2/map/world.png)
 
 - [福雷德号](./dash2/map/Flutter.md)
 - [塞尔法飞行船](./dash2/map/Sulphur_Bottom.md)
