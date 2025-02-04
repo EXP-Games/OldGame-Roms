@@ -2,29 +2,29 @@
 
 ------
 
-## 由雜貨店購買
+## 由杂货店购买
 
 <table border="1">
   <tr>
-    <th>零件名稱</th>
-    <th>出現時間</th>
-    <th>攻擊</th>
-    <th>彈數</th>
+    <th>零件名称</th>
+    <th>出现时间</th>
+    <th>攻击</th>
+    <th>弹数</th>
     <th>射程</th>
-    <th>連射</th>
+    <th>连射</th>
   </tr>
   <tr>
-    <td>威力組件(威力提升)<br>パワーライザー</td>
-    <td rowspan="3">一開始即可購買</td>
+    <td>威力组件(威力提升)<br>パワーライザー</td>
+    <td rowspan="3">一开始即可购买</td>
     <td>2</td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>能源填充(渦輪充電器)<br>ターボチャージ</td>
-    <td>2</td>
+    <td>能源填充(涡轮充电器)<br>ターボチャージ</td>
     <td>-</td>
+    <td>2</td>
     <td>-</td>
     <td>-</td>
   </tr>
@@ -36,89 +36,89 @@
     <td>-</td>
   </tr>
   <tr>
-    <td>爆擊晶片(爆破裝置)<br>ブラストユニット</td>
-    <td rowspan="3">禁斷之地過關後</td>
+    <td>爆击芯片(爆破装置)<br>ブラストユニット</td>
+    <td rowspan="3">禁断之地过关后</td>
     <td>1</td>
     <td>2</td>
     <td>-</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>強波晶片(爆破單位)<br>バスターユニット</td>
+    <td>强波芯片(爆破单位)<br>バスターユニット</td>
     <td>1</td>
     <td>-</td>
     <td>2</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>量產晶片(量產單位)<br>ロットユニット</td>
+    <td>量产芯片(量产单位)<br>ロットユニット</td>
+    <td>-</td>
     <td>2</td>
     <td>-</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>通用三向芯片(通用冲击)<br>トウンストライク</td>
+    <td rowspan="2">进入波古德遗迹后<br>(波古德村须重建好)</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>通用强力芯片(通用爆破)<br>トウンブラスター</td>
+    <td>1</td>
+    <td>1</td>
     <td>-</td>
     <td>1</td>
   </tr>
   <tr>
-    <td>通用三向晶片(通用衝擊)<br>トウンストライク</td>
-    <td rowspan="2">進入波古德遺跡後<br>(波古德村須重建好)</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>通用強力晶片(通用爆破)<br>トウンブラスター</td>
-    <td>1</td>
-    <td>1</td>
-    <td>-</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>強化威力組件(威力提升PLUS)<br>パワーライザープラス</td>
-    <td rowspan="3">第二個封印之鑰交給謬拉後</td>
+    <td>强化威力组件(威力提升PLUS)<br>パワーライザープラス</td>
+    <td rowspan="3">第二个封印之钥交给谬拉后</td>
     <td>4</td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>強化能源填充(渦輪充電器PLUS)<br>ターボチャージプラス</td>
-    <td>4</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>強增速零件(迅速提升PLUS)<br>ラピッドアッププラス</td>
-    <td>-</td>
-    <td>-</td>
+    <td>强化能源填充(涡轮充电器PLUS)<br>ターボチャージプラス</td>
     <td>-</td>
     <td>4</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
   <tr>
-    <td>爆擊晶片SP(爆破裝置SP)<br>ブラストユニットＳＰ</td>
-    <td rowspan="3">第三個封印之鑰交給謬拉後</td>
+    <td>强增速零件(迅速提升PLUS)<br>ラピッドアッププラス</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>爆击芯片SP(爆破装置SP)<br>ブラストユニットＳＰ</td>
+    <td rowspan="3">第三个封印之钥交给谬拉后</td>
     <td>2</td>
     <td>3</td>
     <td>-</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>強波晶片SP(爆破單位SP)<br>バスターユニットＳＰ</td>
+    <td>强波芯片SP(爆破单位SP)<br>バスターユニットＳＰ</td>
     <td>2</td>
     <td>-</td>
     <td>3</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>強力晶片SP(強力爆破SP)<br>パワーブラスターＳＰ</td>
+    <td>强力芯片SP(强力爆破SP)<br>パワーブラスターＳＰ</td>
     <td>3</td>
     <td>-</td>
     <td>-</td>
     <td>2</td>
   </tr>
   <tr>
-    <td>威力組件SP(威力提升SP)<br>パワーライザーＳＰ</td>
-    <td rowspan="4">打倒紀吉後</td>
+    <td>威力组件SP(威力提升SP)<br>パワーライザーＳＰ</td>
+    <td rowspan="4">打倒纪吉后</td>
     <td>7</td>
     <td>-</td>
     <td>-</td>
@@ -139,11 +139,141 @@
     <td>7</td>
   </tr>
   <tr>
-    <td>通用三向晶片SP(通用衝擊SP)<br>トウンストライクＳＰ</td>
+    <td>通用三向芯片SP(通用冲击SP)<br>トウンストライクＳＰ</td>
     <td>1</td>
     <td>3</td>
     <td>3</td>
     <td>-</td>
+  </tr>
+</table>
+
+## 由遗迹中取得
+
+<table border="1">
+  <tr>
+    <th>零件名称</th>
+    <th>取得地点</th>
+    <th>攻击</th>
+    <th>弹数</th>
+    <th>射程</th>
+    <th>连射</th>
+  </tr>
+  <tr>
+    <td>增速零件(迅速提升)<br>ラピッドアップ</td>
+    <td>福雷德号(G)</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>通用控制芯片(通用爆发)<br>トウンアクセス</td>
+    <td>向村长挑战汉检<br>第二次成功后的奖赏</td>
+    <td>-</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>狙击芯片(狙击装置)<br>スナイプユニット</td>
+    <td>喀尔巴尼亚岛‧A级畿豆遗迹(G)</td>
+    <td>-</td>
+    <td>1</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>巡逻者(高级巡逻者)<br>ハイラウンダー</td>
+    <td>喀尔巴尼亚岛‧葛来德要塞</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>强力芯片(强力爆破)<br>パワーブラスター</td>
+    <td>尼诺岛遗迹(F)</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>强射程零件(射程提升PLUS)<br>レンジアッププラス</td>
+    <td>尼诺岛遗迹(H)</td>
+    <td>-</td>
+    <td>-</td>
+    <td>4</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>量产芯片SP(量产单位SP)<br>ロットユニットＳＰ</td>
+    <td>萨尔‧卡答岛遗迹(A)</td>
+    <td>-</td>
+    <td>3</td>
+    <td>-</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>能源填充SP(涡轮充电器SP)<br>ターボチャージＳＰ</td>
+    <td>高岭大陆遗迹(G)</td>
+    <td>-</td>
+    <td>7</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>通用控制芯片SP(通用爆发SP)<br>トウンアクセスＳＰ</td>
+    <td>天堂‧防卫区域 (B)</td>
+    <td>-</td>
+    <td>3</td>
+    <td>1</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>通用强力芯片SP(通用爆破SP)<br>トウンブラスターＳＰ</td>
+    <td>天堂‧防卫区域 (D)</td>
+    <td>3</td>
+    <td>3</td>
+    <td>-</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>狙击芯片SP(狙击装置SP)<br>スナイプユニットＳＰ</td>
+    <td>天堂‧防卫区域 (E)</td>
+    <td>-</td>
+    <td>2</td>
+    <td>3</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>强巡逻者(高级巡逻者PLUS)<br>ハイラウンダープラス</td>
+    <td>天堂‧边际地带(A)</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+</table>
+
+## 其他
+
+<table border="1">
+  <tr>
+    <th>零件名称</th>
+    <th>取得地点</th>
+    <th>攻击</th>
+    <th>弹数</th>
+    <th>射程</th>
+    <th>连射</th>
+  </tr>
+  <tr>
+    <td>极限攻击<br>マキシマムバスター</td>
+    <td>玩简单模式 (一开始即有)</td>
+    <td>7</td>
+    <td>7</td>
+    <td>7</td>
+    <td>7</td>
   </tr>
 </table>
 
