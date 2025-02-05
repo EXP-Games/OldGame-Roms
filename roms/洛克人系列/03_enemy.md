@@ -6,7 +6,7 @@
 
 ![](./dash2/enemy/BOSS-AirPirates.png)
 
-- [亚库多‧克拉贝‧改 = ヤクト．クラベ改 = Yakuto Krabbe Revision]()
+- [亚库多‧克拉贝‧改 = ヤクト．クラベ改 = Yakuto Krabbe Revision](./dash2/enemy/YakutoKrabbeRevision.md)
 - [波拉 = ボーラ BOLA]()
 - [Nino Island Mission]()
 - [Carlbania Island Mission]()
