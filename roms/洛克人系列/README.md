@@ -15,7 +15,7 @@
 - [道具&数据 Item&Data](./07_item_data.md)
 - [秘密任务 Secret](./08_secret.md)
 - [A级执照 A-License](./09_A_license.md)
-- [S级执照 S-License](./10_fun.md)
+- [S级执照 S-License](./10_S_license.md)
 - [娱乐 Fun](./11_fun.md)
 - [漏洞 Bug](./12_bug.md)
 
