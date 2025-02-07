@@ -26,7 +26,7 @@
 - L1N3：[长毛象 = ラシマンムー = Rush Mammoo](./dash2/enemy/RushMammoo.md)
 - L1N4：[丰兵械蛙 = ガルガルフンミー = Galgalfummi](./dash2/enemy/Galgalfummi.md)
 - L1N5：[米德思 = ミドス = Midosu](./dash2/enemy/Midosu.md)
-- L2N1：[Saul Kada Ruins Mission](./dash2/enemy/SaulKada.md)
+- L2N1：[Saul Kada Ruins Mission](./dash2/enemy/SaulKadaRuins.md)
 - L2N2：[Calinca Ruins Mission](./dash2/enemy/CalincaRuins.md)
 - L2N3：[纪吉 = ジジ = JIJI](./dash2/enemy/JIJI.md)
 - L2N4：[赛拉战斗终端机 = セラ战斗端末= SEAR BATTLE COMPUTER](./dash2/enemy/SEAR.md)
