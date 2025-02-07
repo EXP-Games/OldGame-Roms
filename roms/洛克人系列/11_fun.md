@@ -12,7 +12,7 @@
 - [福雷德号]()
 - [杨绍卡镇]()
 - [邪恶洛克]()
-- [你到底想不想离开？]()
+- [你到底想不想离开？](https://www.youtube.com/watch?v=wFREvRU-cFo)
 - [生财之道]()
 - [突破天际的钻头]()
 - [摇滚地雷的妙用！](https://www.youtube.com/watch?v=XY3KrZT9OFo)
