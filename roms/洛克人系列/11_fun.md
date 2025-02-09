@@ -13,7 +13,7 @@
 - [杨绍卡镇]()
 - [邪恶洛克]()
 - [你到底想不想离开？](https://www.youtube.com/watch?v=wFREvRU-cFo)
-- [生财之道]()
+- [生财之道（刷钱方法）](./dash2/fun/money.md)
 - [突破天际的钻头]()
 - [摇滚地雷的妙用！](https://www.youtube.com/watch?v=XY3KrZT9OFo)
 - [基摩多玛镇电网特殊攻略法]()
