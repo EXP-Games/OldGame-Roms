@@ -1,0 +1,21 @@
+# robots.txt for OldGame-Roms
+# 允许所有搜索引擎爬虫访问
+
+User-agent: *
+Allow: /
+
+# 不索引模拟器文件夹（文件太大）
+Disallow: /simulator/
+
+# 指定 Sitemap 位置
+Sitemap: https://exp-games.github.io/OldGame-Roms/sitemap.xml
+
+# 针对百度爬虫的特别设置
+User-agent: Baiduspider
+Allow: /
+Disallow: /simulator/
+
+# 针对 Google 爬虫的特别设置
+User-agent: Googlebot
+Allow: /
+Disallow: /simulator/
